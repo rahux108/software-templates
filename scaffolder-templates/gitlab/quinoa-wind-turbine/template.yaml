@@ -1,8 +1,8 @@
 apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
-  name: wind-turbine-template
-  title: Wind Turbine Software Supply Chain
+  name: wind-turbine-template-new
+  title: Wind Turbine Software Supply Chain New
   description: Create Wind Turbine game using Quarkus, Kafka and Infinispan with Trusted Software Supply Chain
   tags:
     - recommended
